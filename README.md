@@ -1,2 +1,2 @@
-# selenator-forever.github.io
+# selenator
 The Website For Everyone by tilak!!
